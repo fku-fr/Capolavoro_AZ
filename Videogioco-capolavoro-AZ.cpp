@@ -4,7 +4,7 @@ Breve relazione: Ho optato per questo progetto per diverse ragioni. Primariament
 In particolare l'uso delle funzioni, delle strutture, del colore dell'output, del casting, dei cicli iterativi, della gestione di file di testo, controlli efficaci degli input, gestione di numeri casuali e numerose altre
 conoscenze.
 Inoltre, il progetto mi ha permesso di sviluppare competenze trasversali (soft skills) come il problem solving, la capacità di pianificazione e organizzazione del lavoro, e l'attenzione ai dettagli.
-Organizzare e il gioco nel suo complesso è stata, forse, una delle parti più complicate, così come risolvere i numerosissimi problemi che si sono verificati durante la programmazione. Ho cercato di creare un'applicazione
+Organizzare il gioco nel suo complesso è stata, forse, una delle parti più complicate, così come risolvere i numerosissimi problemi che si sono verificati durante la programmazione. Ho cercato di creare un'applicazione
 sia educativa che divertente usando logica e creatività.
 Per provare il videogioco, è necessario inserire questo codice in un compilatore (disponibile anche online)*/
 #include <ctime>
